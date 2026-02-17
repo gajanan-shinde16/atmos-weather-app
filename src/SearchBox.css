@@ -1,0 +1,18 @@
+
+
+.search-box {
+    height: 200px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 25px;
+}
+
+.search-box button{
+    display: block;
+    margin: 0 auto;
+}
